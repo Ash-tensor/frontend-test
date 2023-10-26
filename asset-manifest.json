@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ash-tensor/frontend-test.git/static/css/main.190e8e4e.chunk.css",
+    "main.js": "/Ash-tensor/frontend-test.git/static/js/main.e8364307.chunk.js",
+    "main.js.map": "/Ash-tensor/frontend-test.git/static/js/main.e8364307.chunk.js.map",
+    "runtime-main.js": "/Ash-tensor/frontend-test.git/static/js/runtime-main.0d197028.js",
+    "runtime-main.js.map": "/Ash-tensor/frontend-test.git/static/js/runtime-main.0d197028.js.map",
+    "static/js/2.163b2658.chunk.js": "/Ash-tensor/frontend-test.git/static/js/2.163b2658.chunk.js",
+    "static/js/2.163b2658.chunk.js.map": "/Ash-tensor/frontend-test.git/static/js/2.163b2658.chunk.js.map",
+    "index.html": "/Ash-tensor/frontend-test.git/index.html",
+    "static/css/main.190e8e4e.chunk.css.map": "/Ash-tensor/frontend-test.git/static/css/main.190e8e4e.chunk.css.map",
+    "static/js/2.163b2658.chunk.js.LICENSE.txt": "/Ash-tensor/frontend-test.git/static/js/2.163b2658.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d197028.js",
+    "static/js/2.163b2658.chunk.js",
+    "static/css/main.190e8e4e.chunk.css",
+    "static/js/main.e8364307.chunk.js"
+  ]
+}
